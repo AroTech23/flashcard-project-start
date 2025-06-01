@@ -16,7 +16,8 @@ Learn French the smart way! This is a **flashcard app** built with Python using 
 
 ## 📸 Screenshots
 
-> *github.png*
+> ![App Screenshot](images/github.png)
+
 
 ---
 
